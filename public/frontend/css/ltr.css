@@ -1,0 +1,15 @@
+#rev_slider_1014_1_wrapper .text-uppercase {
+    font-size: 39px !important;
+}
+@media only screen and (max-width:991px){
+    #rev_slider_1014_1_wrapper .text-uppercase {
+        font-size: 16px !important;
+    }
+}
+.header-nav .nav > li {
+    margin: 0px !important;
+    font-size: 18px !important;
+    font-weight: 400;
+    position: relative;
+    text-transform: capitalize !important;
+}
